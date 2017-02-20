@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <title>STEV CSS - Sample of Input Material Design</title>
+        <style>
+            body {
+                padding: 10px;
+                font-family: "Open Sans"
+            }
+
+            h3 {
+                margin-bottom: 24px;
+            }
+        </style>
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="../src/style.css"/>
+    </head>
+    <body>
+        <h3>Standard Input - Valid State</h3>
+        <input id="txt-registration-name"
+            class="input-material-design valid-input"
+            placeholder="Nama Lengkap" type="text" required="required" />
+        <div class="label-input-container">
+            <label for="txt-registration-name" class="label-input">Full Name</label>
+        </div>
+        <h3>Standard Input - Error State</h3>
+        <input id="txt-registration-name"
+            class="input-material-design error-input"
+            placeholder="Nama Lengkap" type="text" required="required" />
+        <div class="label-input-container">
+            <label for="txt-registration-name" class="label-input">Full Name</label>
+        </div>
+        <div>
+            <div class="error-input-container">
+                <label for='txt-registration-name'>Full Name is required</label>
+            </div>
+            <br />
+        </div>
+    </body>
+</html>
