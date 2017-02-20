@@ -1,4 +1,4 @@
-# STEV - CSS-Only Design Library by [Stevanus Christopel](http://stevanus.id/)
+# STEV - CSS Only Design Library by [Stevanus Christopel](http://stevanus.id/)
 
 ## Introduction
 This is full CSS only design library by [Stevanus Christopel](http://stevanus.id/).
