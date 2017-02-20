@@ -10,6 +10,9 @@ Material Design based input with style and animation when filling the input or s
 
 ## Usage
 You can use and modify it freely on your source code.
-Just download the css form **src** folder and add it to your page.
+
+Just download the css from **src** folder and add it to your page.
+
 Open **sample** folder for each component's sample page 
+
 I will be pleased if you add this github page as your reference on your source code when using this css.
